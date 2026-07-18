@@ -1,16 +1,21 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1a2e&height=220&section=header&text=Paulo%20Leandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Mobile%20S%C3%AAnior&descAlignY=58&descSize=20" width="100%"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+Paulo+Leandro+%F0%9F%91%8B;Full+Stack+Mobile+S%C3%AAnior;React+Native+%7C+Node.js+%7C+TypeScript;Construindo+apps+que+importam+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=640&lines=React+Native+%7C+React+%7C+Node.js+%7C+TypeScript;5%2B+anos+construindo+apps+de+alta+escala;Produtos+usados+em+%2B19+pa%C3%ADses+%F0%9F%8C%8D;Clean+Code+%C2%B7+TDD+%C2%B7+Design+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&fontSize=0" width="100%"/>
+[![Location](https://img.shields.io/badge/📍-Brodowski,_SP,_Brasil-6C63FF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/leandro5g)
+[![Company](https://img.shields.io/badge/💼-Creditas-6C63FF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/leandro5g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-leandro-sousa-%F0%9F%8F%85%E2%9C%85-452293183/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandromoraes.developer@gmail.com)
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+## 🚀 Sobre mim
 
-### Sobre mim
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```ts
 const pauloLeandro = {
@@ -21,33 +26,60 @@ const pauloLeandro = {
   cloud: ["AWS", "Docker", "GitHub Actions"],
   focus: "Apps escaláveis com impacto real",
   langs: ["Português 🇧🇷", "Inglês 🇺🇸", "Espanhol 🇪🇸"],
-};
+} as const;
 ```
 
-- Mais de **5 anos** desenvolvendo apps mobile e web de alta escala
-- Já entreguei produtos usados em **+19 países** (Medaclic)
-- Experiência em empresas como **Creditas**, **Meta** e **ExitLag**
-- Apaixonado por **Clean Code**, **TDD** e **Design Systems**
+- 🛠️ Mais de **5 anos** desenvolvendo apps mobile e web de alta escala
+- 🌍 Produtos entregues e usados em **+19 países** (Medaclic)
+- 🏢 Passagens por **Creditas**, **Meta** e **ExitLag**
+- 🧪 Apaixonado por **Clean Code**, **TDD** e **Design Systems**
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=2&section=header" width="100%"/>
 
-## Trajetória Profissional
+## 🧬 Contribution Snake
 
-```
-2024 ──────► Creditas          │ Full Stack Sênior     │ App Creditas · Rebranding · CI/CD
-2023 ──────► ExitLag           │ Mobile Sênior         │ Auth · Analytics · Firebase
-2022-2024 ─► Meta              │ Mobile Sênior         │ App Lojas Renner · Design System · 100% test coverage
-2021-2022 ─► Zeitnat (França)  │ Mobile Sênior         │ Opeaz · Medaclic (+19 países)
-2021 ──────► GO.K              │ Full Stack Pleno      │ Droga Raia · Drogasil
-2020-2021 ─► Fintech P2P       │ Mobile Pleno → Lead   │ Plataforma FIDO · Tech Leader
-2019-2020 ─► BkBank            │ Mobile Pleno          │ App BkBank do zero ao deploy
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandro5g/leandro5g/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leandro5g/leandro5g/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/leandro5g/leandro5g/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
 
----
+## 📊 GitHub Stats
 
-## Tech Stack
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=leandro5g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro5g&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=leandro5g&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A1A2E&stroke=6C63FF&ring=6C63FF&fire=6C63FF)](https://git.io/streak-stats)
+
+<img src="https://github-profile-trophy.vercel.app/?username=leandro5g&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=2&section=header" width="100%"/>
+
+## 🧭 Trajetória Profissional
+
+<div align="center">
+
+| Período | Empresa | Cargo | Destaques |
+|:---:|:---|:---|:---|
+| **2024** | 🏦 Creditas | Full Stack Sênior | App Creditas · Rebranding · CI/CD |
+| **2023** | 🎮 ExitLag | Mobile Sênior | Auth · Analytics · Firebase |
+| **2022–2024** | 📘 Meta | Mobile Sênior | App Lojas Renner · Design System · 100% test coverage |
+| **2021–2022** | 🇫🇷 Zeitnat (França) | Mobile Sênior | Opeaz · Medaclic (+19 países) |
+| **2021** | 💊 GO.K | Full Stack Pleno | Droga Raia · Drogasil |
+| **2020–2021** | 💳 Fintech P2P | Mobile Pleno → Lead | Plataforma FIDO · Tech Leader |
+| **2019–2020** | 🏛️ BkBank | Mobile Pleno | App BkBank do zero ao deploy |
+
+</div>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -75,26 +107,9 @@ const pauloLeandro = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=2&section=header" width="100%"/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro5g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro5g&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=leandro5g&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Destaques da Carreira
+## 🏆 Destaques da Carreira
 
 | Projeto | Empresa | Impacto |
 |---|---|---|
@@ -105,9 +120,7 @@ const pauloLeandro = {
 | 🎮 **App ExitLag** | ExitLag | Google Sign-In · Firebase · MixPanel · Clarity |
 | 💳 **BkBank** | BkBank | Do zero ao deploy na PlayStore e AppStore |
 
----
-
-## Formação
+## 🎓 Formação
 
 - 🎓 **Ciências da Computação** — UNIP, Ribeirão Preto (2017–2020)
 - 🚀 **Bootcamp GoStack** — Rocketseat · React, Node.js, React Native (2020)
@@ -115,13 +128,13 @@ const pauloLeandro = {
 - ⚡ **Especialização Full Stack** — Rocketseat (2023)
 - 🧹 **Clean Code (React & Node)** — Rocketseat (2022)
 
----
-
-## Contato
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=2&section=header" width="100%"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro5g)
+### 📬 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-leandro-sousa-%F0%9F%8F%85%E2%9C%85-452293183/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandromoraes.developer@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandro5g)
 
@@ -129,4 +142,4 @@ const pauloLeandro = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=150&section=footer" width="100%"/>
