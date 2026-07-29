@@ -30,8 +30,9 @@ const pauloLeandro = {
 ```
 
 - 🛠️ Mais de **5 anos** desenvolvendo apps mobile e web de alta escala
-- 🌍 Produtos entregues e usados em **+19 países** (Medaclic)
-- 🏢 Passagens por **Creditas**, **Meta** e **ExitLag**
+- 🌍 Produtos entregues e usados em **+19 países** (Medaclic e Opeaz, na Zeitnat/França)
+- 🏢 Passagens por **Creditas**, **Meta**, **Zeitnat (França)** e **ExitLag** — trajetória completa abaixo ⬇️
+- 🤖 Atualmente estudando e construindo **agentes de IA** com LangGraph, LangChain e MCP (Model Context Protocol)
 - 🧪 Apaixonado por **Clean Code**, **TDD** e **Design Systems**
 
 <br clear="right"/>
@@ -55,9 +56,23 @@ const pauloLeandro = {
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leandro5g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro5g&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leandro5g&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A1A2E&stroke=6C63FF&ring=6C63FF&fire=6C63FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandro5g&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A1A2E&stroke=6C63FF&ring=6C63FF&fire=6C63FF)](https://github.com/leandro5g)
 
-<img src="https://github-profile-trophy.vercel.app/?username=leandro5g&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=2&section=header" width="100%"/>
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Stack | Descrição |
+|---|---|---|
+| 🤖 [**google-trends-linkedin-agent**](https://github.com/leandro5g/google-trends-linkedin-agent) | LangGraph · Fastify · SerpAPI | Agente que valida ideias de posts com dados reais do Google Trends antes de escrever |
+| 🧩 [**mcp-tools-template**](https://github.com/leandro5g/mcp-tools-template) | LangGraph · MCP · MongoDB | Agente que orquestra múltiplos servidores MCP (MongoDB, filesystem) como ferramentas |
+| 🎵 [**song-highlights-langgraph**](https://github.com/leandro5g/song-highlights-langgraph) | LangGraph · PostgreSQL | Chatbot de recomendação musical com memória persistente multi-camada |
+| 🩺 [**medical-appointment-template**](https://github.com/leandro5g/03-medical-appointment-template) | LangGraph · OpenRouter | Agente que agenda e cancela consultas médicas via linguagem natural em português |
+| 🛒 [**devstore**](https://github.com/leandro5g/devstore) | Next.js · TypeScript · Cypress | Loja virtual completa: catálogo, carrinho, busca e testes e2e |
 
 </div>
 
